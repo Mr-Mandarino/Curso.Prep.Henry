@@ -1,0 +1,12 @@
+Variables: Es un concepto que nos permite guardar un dato en un lugar para poder recuperarlo mas tarde y poder utilizarlo
+
+Strings: Es una forma que puede tomar la variable, un tipo de dato, hace referencia a un hilo de caracteres y va siempre entre comillas
+
+Funciones: Es una herramienta que nos permite agrupar codigo que después podemos invocar y que se ejecute
+
+Argumentos: Son variables que coloco dentro de una función que van a tomar un valor que cuando yo invoque a la función me los va a devolver
+
+Declaraciones: Son razonamientos lógicos que se incluyen dentro de una función. Por ejemplo si pasa tal cosas entonces hacer tal otra, como por ejemplo if , if else, else
+
+
+Valores Boleano: Se refieren a un  tipo especifico de valor de una variable  es decir verdadero o falso, true o false
