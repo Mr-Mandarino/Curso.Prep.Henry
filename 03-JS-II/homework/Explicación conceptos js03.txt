@@ -1,0 +1,10 @@
+for: Es la sintaxis inicial en un bucle ( un bucle es una operación que necesitamos repetir n cantidad de veces0).
+ El for al inicio de un statement, nos esta indicando que vamos a iniciar un bucle con una operación
+
+
+&&: El doble ampersand es un operador lógico, que signinica "y"-. Lo utilizamos cuando queremos unir dos o mas condiciones dentro de un
+ una expresion o statement.´Sera verdadero, solo cuando las dos expresiones sean verdaderas
+
+
+||:  La boble bar es otro operador lógico, y significa "o". Nos indica la validez de una de las condiciones dentro de la expresion, y nos arrojará
+un resultado verdadero con que solo una de las condiciones sea verdadera independientemente de las otras.
