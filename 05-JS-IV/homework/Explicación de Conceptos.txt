@@ -1,0 +1,41 @@
+Explicación de Conceptos
+
+Objetos
+
+Los objetos son un conjunto de variables asociadas, a cada variable le corresponde un valor, separado por comas.
+Dentro de un ojeto podemos  encotrar cualquier tipo de datos, strings, numeros, funciones, arreglos,booleanos u otro objetos
+Las variables dentro de un objeto se articulan en pares de clave-valor, a cada clave le corresponde un valor. las claves son unicas, dentro de un objeto
+
+
+Propiedades
+
+Las propieades son los nombres que reciben las claves dentro de un objeto, es decir la referencia que va ir asociada al valor
+
+
+
+Métodos
+
+Los métodos son básicamente funciones, pero dentro de los objetos reciben este nombre
+
+
+
+
+
+Bucle for…in
+
+Es una variable del bucle for, que nos permite iterar las claves del objeto, ya que las claves dentro de un objeto no reciben un
+orden númerico.Declararemos una variable, la palabra clave in y el nombre del objeto y el bucle iterará cada variable dentro del objeto, 
+de esta forma el bucle estaría  conformado de la siguiente manera: 
+
+for (variable in objeto)
+  instrucción
+
+Notación de puntos vs notación de corchetes
+
+Se refieren a dos sistemas diferentes de acceder a las claves o propiedades de un objeto.
+En la notación por puntos, utilizamos el nombre del objeto seguido de un punto y la propiedad,  si esta propiedad tuviese a su vez dentro 
+otras claves o propieades agragariamos otro punto y el nombre de la propiedad, por ejemplo: usuarios.usuario23.edad. 
+En la notación por corchtetes, cololocas el nombre del objeto y entre corchetes en el nombre de la propiedad.
+La notación por puntos, o dot notation, es mas rápida pero se refiere a la propiedad exacta del objeto y nos devolverá solo si la propiedad 
+se encuentra del objeto y si hay una  concordancia  exacta entre ambas, por otro lado la notación por corchetes o braket notation, nos devolverá
+la propiedad especificada, aunque esta no se encuentre dentro del objeto especificado
