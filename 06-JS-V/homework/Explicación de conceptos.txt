@@ -1,0 +1,30 @@
+Prototype:
+
+Prototype es una función de Java Script que nos pemite crear una función que se ligará al objeto modelo, se usa junto con 
+Function Constructor, es decir en esta última creamos el objeto y sus propiedades, y con la función Prototype, los métodos, 
+de esta forma, los objetos que se siguen del Function Constructor, no deberán llevar cada uno los métodos, produciendo una
+saturación del código y recursos del sistema, si no que podran recurrir al Object Prototype y correr la función desde allí
+LA sintaxis seria la siguiente
+
+nombreDelObjeto.prototype.nombreDelMetodo. = function () {
+    describimos la función, utilizamos el this para referirnos a las variables
+}
+
+
+Constructor de Clases:
+
+Es una función de JS que nos permite crear un objeto a partir de una clase (en realidad es un método, es decir una función)
+ Solo puede haber un método  con el nombre "constructor" en una clase. Es una palabra reservada
+ Para utilizarlo primero debe estar declarada la clase 
+
+ class Persona {} ;
+
+ Luego llamamos al metodo de esta manera
+
+class Persona {
+      constructor(propiedad1, propieadad2){
+        this.propiedad1 = propiedad1;
+        this.propiedad2 = propieadad2;
+      };
+}
+
