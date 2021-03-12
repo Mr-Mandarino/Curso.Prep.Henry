@@ -27,7 +27,7 @@ Es una variable del bucle for, que nos permite iterar las claves del objeto, ya 
 orden númerico.Declararemos una variable, la palabra clave in y el nombre del objeto y el bucle iterará cada variable dentro del objeto, 
 de esta forma el bucle estaría  conformado de la siguiente manera: 
 
-for (variable in objeto)
+for (variable    in    objeto)
   instrucción
 
 Notación de puntos vs notación de corchetes

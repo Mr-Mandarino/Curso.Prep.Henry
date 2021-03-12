@@ -207,6 +207,7 @@ module.exports = {
   crearGato,
   agregarPropiedad,
   invocarMetodo,
+  
   multiplicarNumeroDesconocidoPorCinco,
   eliminarPropiedad,
   nuevoUsuario,
@@ -214,6 +215,7 @@ module.exports = {
   tienePropiedad,
   verificarPassword,
   actualizarPassword,
+
   agregarAmigo,
   pasarUsuarioAPremium,
   sumarLikesDeUsuario,
